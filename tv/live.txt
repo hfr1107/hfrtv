@@ -1,8 +1,8 @@
 央视高清,#genre#
-新闻13台,http://183.207.249.11/PLTV/3/224/3221225560/index.m3u8?zzhongd
 新闻13台,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8?$移动蓝光1080P
 新闻13台,http://39.135.32.7:6610/000000001000/HD-8000k-1080P-cctv13/1.m3u8?IASHttpSessionId=OTT?zzhongd
 新闻13台,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+新闻13台,http://183.207.249.11/PLTV/3/224/3221225560/index.m3u8?zzhongd
 新闻13台,http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8?$移动高清720P
 综合1台,http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv1/1.m3u8?IASHttpSessionId=OTT?zzhongd
 综合1台,http://117.148.179.165/PLTV/88888888/224/3221231468/index.m3u8?zzhongd
@@ -72,7 +72,6 @@ CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P
 江苏卫视,http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
 江苏卫视,http://183.207.255.197/live/program/live/jswshd/2300000/mnf.m3u8
 江苏卫视,http://111.40.196.31/PLTV/88888888/224/3221225515/index.m3u8?zweimd
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8
 浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
 浙江卫视,http://183.207.255.197/live/program/live/zjwshd/2300000/mnf.m3u8
 浙江卫视,http://117.148.179.136/PLTV/88888888/224/3221231567/index.m3u8?zweimd
@@ -206,18 +205,14 @@ CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P
 兵团卫视,http://39.135.32.10:6610/000000001000/SD-4000k-576P-bingtuanstv/1.m3u8?IASHttpSessionId=OTT?zweimd
 兵团卫视,http://111.40.196.31/PLTV/88888888/224/3221225637/index.m3u8?zweimd
 港台,#genre#
-凤凰中文,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 TVBS新闻台,rtmp://59.124.75.150/sat/tv551
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS欢乐台,rtmp://59.124.75.150/sat/tv421
@@ -243,6 +238,7 @@ TVBS欢乐台,rtmp://59.124.75.150/sat/tv421
 澳视卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 代理频道,#genre#
+中天新聞,http://60.251.59.180:8504/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 中天新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=1
 半岛新闻-英语,https://ytb.52sf.ga/jmsytb.m3u8?c=2
 民視新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=3
